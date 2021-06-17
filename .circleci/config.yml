@@ -20,4 +20,4 @@ jobs:
           password: $DOCKERHUB_PASSWORD  # context / project UI env-var reference
     steps:
       - checkout
-      - run: echo "A more fimilier hello From Aditya...
+      - run: echo "A more fimilier hello From Aditya..."
